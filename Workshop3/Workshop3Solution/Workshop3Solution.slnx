@@ -1,5 +1,13 @@
 <Solution>
-  <Folder Name="/Exercise30/" />
-  <Folder Name="/Exercise35/" />
-  <Folder Name="/Shared/" />
+  <Folder Name="/Exercise30/">
+    <Project Path="Exercise30.Backend/Exercise30.Backend.csproj" />
+    <Project Path="Exercise30.Frontend/Exercise30.Frontend.csproj" />
+  </Folder>
+  <Folder Name="/Exercise35/">
+    <Project Path="Exercise35.Backend/Exercise35.Backend.csproj" />
+    <Project Path="Exercise35.Frontend/Exercise35.Frontend.csproj" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="Shared/Shared.csproj" />
+  </Folder>
 </Solution>
